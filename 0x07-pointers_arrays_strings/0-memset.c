@@ -6,7 +6,7 @@
  * @b: desired value
  * @n: number of bytes to be changed
  *
- * Return: change
+ * Return: changed qrrqy zith nez vqlue for n bytes
  */
 
 char *_memset(char *s, char b, unsigned int n)
