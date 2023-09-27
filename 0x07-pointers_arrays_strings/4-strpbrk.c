@@ -1,7 +1,7 @@
 #include "mainh"
 
 /**
- * _strpbrk- intry point
+ * _strpbrk - intry point
  * @s: input
  * @accept: input
  * Return: always (success)
