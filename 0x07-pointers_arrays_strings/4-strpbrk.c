@@ -4,7 +4,7 @@
  * _strpbrk - intry point
  * @s: input
  * @accept: input
- * Return: always (success)
+ * Return: always 0 (success)
  */
 
 char *_strpbrk(char *s, char *accept)
